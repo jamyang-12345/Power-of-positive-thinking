@@ -1,0 +1,53 @@
+h1{
+    color:white;
+    text-align: center;
+    background-color:lightblue;
+    font-size: 50px;
+}
+body{
+    background-color:bisque;
+}
+p{
+    font-size:50px;
+}
+
+nav{
+    font-size: 50px;
+    margin:50px;
+    padding: 50px;
+    gap:20px;
+
+}
+nav a:hover{
+    background-color:cyan;
+}
+
+img{
+    width:800px;
+    height:500px;
+    border-radius: 50px;
+    
+}
+body{
+    background-image: url(images/picture.jpg);
+    background-size: cover;
+}
+iframe{
+    display:block;
+    margin:auto;
+}
+
+h1{
+
+    color:white;
+    text-align: center;
+    background-color:lightblue;
+    font-size: 45px;
+}
+.logo img{
+    float:right;
+    width:150px;
+    height:auto;
+}
+
+
